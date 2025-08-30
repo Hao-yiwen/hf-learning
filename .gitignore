@@ -75,3 +75,12 @@ datasets/
 *.log
 tmp/
 temp/
+# Model files
+*.bin
+*.safetensors
+*.h5
+*.pkl
+*.pickle
+pytorch_model.bin
+model.safetensors
+tf_model.h5
